@@ -7,9 +7,9 @@ This console application illustrates how the Factory Design Pattern can be used 
 
 The purpose of this project is to provide a clear explanation of the Factory Design Pattern, making it accessible to developers at all levels.
 
-I have also explained this pattern in more detail in my LinkedIn article: [Let's play with: Factory Design Pattern](https://www.linkedin.com/pulse/lets-play-design-patterns-manos-kefalas-a4zif/).
+I have also explained this pattern in more detail in my LinkedIn article: [Let's Play With: Design Patterns - Factory Design Pattern](https://www.linkedin.com/pulse/lets-play-design-patterns-manos-kefalas-a4zif/).
 
-This project was created by Manos Kefalas to help developers learn and apply the Factory Design Pattern effectively.
+This project was created by **Manos Kefalas** to help developers learn and apply the Factory Design Pattern effectively.
 
 ## How It Works
 The project is divided into the following components:
@@ -70,10 +70,10 @@ Strawberry Ice Cream
 This structure follows the Factory Design Pattern, ensuring flexibility and maintainability.
 
 ## Article Link
-Read my detailed article on LinkedIn: [Let's play with: Factory Design Pattern](https://www.linkedin.com/pulse/lets-play-design-patterns-manos-kefalas-a4zif/).
+Read my detailed article on LinkedIn: [Let's Play With: Design Patterns - Factory Design Pattern](https://www.linkedin.com/pulse/lets-play-design-patterns-manos-kefalas-a4zif/).
 
 ## About the Author
-This project was created by Manos Kefalas as part of the "Let's Play With: Design Patterns" series, aiming to provide practical examples for developers to learn and apply design patterns effectively.
+This project was created by **Manos Kefalas** as part of the "Let's Play With: Design Patterns" series, aiming to provide practical examples for developers to learn and apply design patterns effectively.
 
 Connect with me on LinkedIn: [Manos Kefalas](https://www.linkedin.com/in/manos-kefalas-96b1a3121/).
 
